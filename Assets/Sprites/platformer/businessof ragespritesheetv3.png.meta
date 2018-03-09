@@ -1,0 +1,1347 @@
+fileFormatVersion: 2
+guid: af0f26b215e8e45a1bfe757d1ece03fb
+timeCreated: 1520292160
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: businessof ragespritesheetv3_0
+    21300002: businessof ragespritesheetv3_1
+    21300004: businessof ragespritesheetv3_2
+    21300006: businessof ragespritesheetv3_3
+    21300008: businessof ragespritesheetv3_4
+    21300010: businessof ragespritesheetv3_5
+    21300012: businessof ragespritesheetv3_6
+    21300014: businessof ragespritesheetv3_7
+    21300016: businessof ragespritesheetv3_8
+    21300018: businessof ragespritesheetv3_9
+    21300020: businessof ragespritesheetv3_10
+    21300022: businessof ragespritesheetv3_11
+    21300024: businessof ragespritesheetv3_12
+    21300026: businessof ragespritesheetv3_13
+    21300028: businessof ragespritesheetv3_14
+    21300030: businessof ragespritesheetv3_15
+    21300032: businessof ragespritesheetv3_16
+    21300034: businessof ragespritesheetv3_17
+    21300036: businessof ragespritesheetv3_18
+    21300038: businessof ragespritesheetv3_19
+    21300040: businessof ragespritesheetv3_20
+    21300042: businessof ragespritesheetv3_21
+    21300044: businessof ragespritesheetv3_22
+    21300046: businessof ragespritesheetv3_23
+    21300048: businessof ragespritesheetv3_24
+    21300050: businessof ragespritesheetv3_25
+    21300052: businessof ragespritesheetv3_26
+    21300054: businessof ragespritesheetv3_27
+    21300056: businessof ragespritesheetv3_28
+    21300058: businessof ragespritesheetv3_29
+    21300060: businessof ragespritesheetv3_30
+    21300062: businessof ragespritesheetv3_31
+    21300064: businessof ragespritesheetv3_32
+    21300066: businessof ragespritesheetv3_33
+    21300068: businessof ragespritesheetv3_34
+    21300070: businessof ragespritesheetv3_35
+    21300072: businessof ragespritesheetv3_36
+    21300074: businessof ragespritesheetv3_37
+    21300076: businessof ragespritesheetv3_38
+    21300078: businessof ragespritesheetv3_39
+    21300080: businessof ragespritesheetv3_40
+    21300082: businessof ragespritesheetv3_41
+    21300084: businessof ragespritesheetv3_42
+    21300086: businessof ragespritesheetv3_43
+    21300088: businessof ragespritesheetv3_44
+    21300090: businessof ragespritesheetv3_45
+    21300092: businessof ragespritesheetv3_46
+    21300094: businessof ragespritesheetv3_47
+    21300096: businessof ragespritesheetv3_48
+    21300098: businessof ragespritesheetv3_49
+    21300100: businessof ragespritesheetv3_50
+    21300102: businessof ragespritesheetv3_51
+    21300104: businessof ragespritesheetv3_52
+    21300106: businessof ragespritesheetv3_53
+    21300108: businessof ragespritesheetv3_54
+    21300110: businessof ragespritesheetv3_55
+    21300112: businessof ragespritesheetv3_56
+    21300114: businessof ragespritesheetv3_57
+    21300116: businessof ragespritesheetv3_58
+    21300118: businessof ragespritesheetv3_59
+    21300120: businessof ragespritesheetv3_60
+    21300122: businessof ragespritesheetv3_61
+    21300124: businessof ragespritesheetv3_62
+    21300126: businessof ragespritesheetv3_63
+    21300128: businessof ragespritesheetv3_64
+    21300130: businessof ragespritesheetv3_65
+    21300132: businessof ragespritesheetv3_66
+    21300134: businessof ragespritesheetv3_67
+    21300136: businessof ragespritesheetv3_68
+    21300138: businessof ragespritesheetv3_69
+    21300140: businessof ragespritesheetv3_70
+    21300142: businessof ragespritesheetv3_71
+    21300144: businessof ragespritesheetv3_72
+    21300146: businessof ragespritesheetv3_73
+    21300148: businessof ragespritesheetv3_74
+    21300150: businessof ragespritesheetv3_75
+    21300152: businessof ragespritesheetv3_76
+    21300154: businessof ragespritesheetv3_77
+    21300156: businessof ragespritesheetv3_78
+    21300158: businessof ragespritesheetv3_79
+    21300160: businessof ragespritesheetv3_80
+    21300162: businessof ragespritesheetv3_81
+    21300164: businessof ragespritesheetv3_82
+    21300166: businessof ragespritesheetv3_83
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 733
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 739
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 733
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 734
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 734
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 732
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 681
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 681
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 681
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 680
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 680
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 632
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 632
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 632
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 652
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 631
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 582
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 582
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 582
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 582
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 582
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 532
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 532
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 532
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 532
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 484
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 489
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 488
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 432
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 432
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_30
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 432
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 432
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_32
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 432
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_33
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 432
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_34
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 432
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_35
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 432
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 382
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 382
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_38
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 382
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 382
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_40
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 382
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_41
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 382
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_42
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 382
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_43
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 382
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_44
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 382
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_45
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 382
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 332
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 332
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_48
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 279
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_49
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 279
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_50
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 279
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_51
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 320
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_52
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 279
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_53
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 280
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_54
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 309
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_55
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 310
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_56
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 311
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 280
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_58
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 280
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_59
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 280
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_60
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 280
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_61
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 280
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_62
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 280
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_63
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 280
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 280
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_65
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 280
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 179
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_67
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 179
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_68
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 179
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 181
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 189
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_71
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 181
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 129
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 129
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_74
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 129
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_75
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 129
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_76
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 129
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_77
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 129
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 61
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 61
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_80
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 61
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_81
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 61
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_82
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 61
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: businessof ragespritesheetv3_83
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 61
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

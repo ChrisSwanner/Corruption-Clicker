@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/CorruptionClicker.unity
+    guid: fcd714dca3558498589db5102f7177f3
+  - enabled: 1
+    path: Assets/_Scenes/Platform1.unity
+    guid: e4ce0086ba3864d6789e9778c92e56ce
+  - enabled: 1
+    path: Assets/_Scenes/Platform2.unity
+    guid: 82d542dc8b7c94a7397069d24eb34e5d
+  - enabled: 1
+    path: Assets/_Scenes/BBBBMenu.unity
+    guid: 1a1f276edfd8f473ab4e77518bbd18a3
+  - enabled: 1
+    path: Assets/_Scenes/ShootEmUp.unity
+    guid: 7144b47802b97a442ab813a31a54a72d
+  - enabled: 1
+    path: Assets/_Scenes/BulletHell.unity
+    guid: 4c3247c53c8aa468d87b32ab39ba261d
+  - enabled: 1
+    path: Assets/_Scenes/platformGameOver.unity
+    guid: 6e3775eaf11b54fb79d1f4f6479d9511
+  - enabled: 1
+    path: Assets/_Scenes/boatGameOver.unity
+    guid: 08d298ee82d2344278e7d5bfd57343bd
+  - enabled: 1
+    path: Assets/_Scenes/boatWinScreen.unity
+    guid: 281d28569bf504c1cb580996d7b4485c
+  - enabled: 1
+    path: Assets/_Scenes/bulletGameOver.unity
+    guid: 1a2bc935cbd0a48b4b904237a70dab1e
+  - enabled: 1
+    path: Assets/_Scenes/platformStart.unity
+    guid: e756f5e9a3ba44cb0b3f78b2adc9c71f
+  - enabled: 1
+    path: Assets/_Scenes/BulletHellStart.unity
+    guid: 7b152b2e3c09342a3865dfbbdcfa4022
+  - enabled: 1
+    path: Assets/_Scenes/boatStart.unity
+    guid: 7f261fe33573d445ca3b07249911fd6e
+  - enabled: 1
+    path: Assets/_Scenes/bulletWinScreen.unity
+    guid: 661daaa9704b840ae9f0aafde43e9c89

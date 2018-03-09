@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 325ea2323868f4793b47e6ccd4d57911
+timeCreated: 1520379538
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: office_0
+    21300002: office_1
+    21300004: office_2
+    21300006: office_3
+    21300008: office_4
+    21300010: office_5
+    21300012: office_6
+    21300014: office_7
+    21300016: office_8
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: office_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 77
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 11}
+        - {x: -11, y: -11}
+        - {x: 11, y: -11}
+        - {x: 11, y: 11}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: office_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: -3, y: -8}
+        - {x: 8, y: 3}
+        - {x: 8, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: office_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -16, y: -24}
+        - {x: 16, y: -24}
+        - {x: 16, y: 24}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: office_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: office_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: -3}
+        - {x: -3, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: office_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 93
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: 3}
+        - {x: 34.5, y: 13}
+        - {x: -16.5, y: 16}
+        - {x: -46.5, y: 16}
+        - {x: -46.5, y: -16}
+        - {x: 46.5, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: office_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 37
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 5.5}
+        - {x: -5.5, y: 3.5}
+        - {x: -5.5, y: -7.5}
+        - {x: 5.5, y: -7.5}
+        - {x: 5.5, y: 4.5}
+        - {x: 3.5, y: 5.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: office_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14.5}
+        - {x: -29, y: 7.5}
+        - {x: -32, y: 4.5}
+        - {x: -32, y: -14.5}
+        - {x: 32, y: -14.5}
+        - {x: 32, y: 11.5}
+        - {x: 31, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: office_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 16
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 7.5}
+        - {x: -6, y: -5.5}
+        - {x: -4, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 4.5}
+        - {x: 4, y: 7.5}
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 0, y: 56}
+      - {x: -3.9063623, y: 55.863586}
+      - {x: -7.793694, y: 55.45501}
+      - {x: -11.643055, y: 54.776268}
+      - {x: -15.435692, y: 53.830654}
+      - {x: -19.153128, y: 52.622787}
+      - {x: -22.77725, y: 51.158546}
+      - {x: -26.290407, y: 49.44507}
+      - {x: -29.67548, y: 47.490692}
+      - {x: -32.915974, y: 45.30495}
+      - {x: -35.99611, y: 42.898487}
+      - {x: -38.90087, y: 40.283024}
+      - {x: -41.61611, y: 37.471313}
+      - {x: -44.12861, y: 34.477036}
+      - {x: -46.42611, y: 31.314796}
+      - {x: -48.49743, y: 27.999992}
+      - {x: -50.33247, y: 24.548779}
+      - {x: -51.922295, y: 20.977964}
+      - {x: -53.259167, y: 17.30495}
+      - {x: -54.33656, y: 13.5476265}
+      - {x: -55.14923, y: 9.7243}
+      - {x: -55.693226, y: 5.853598}
+      - {x: -55.96589, y: 1.9543782}
+      - {x: -55.96589, y: -1.9543632}
+      - {x: -55.693226, y: -5.8535833}
+      - {x: -55.149235, y: -9.724285}
+      - {x: -54.336563, y: -13.547611}
+      - {x: -53.25917, y: -17.304935}
+      - {x: -51.922302, y: -20.977951}
+      - {x: -50.332474, y: -24.54877}
+      - {x: -48.49743, y: -27.999992}
+      - {x: -46.426105, y: -31.314798}
+      - {x: -44.128605, y: -34.47704}
+      - {x: -41.616108, y: -37.471317}
+      - {x: -38.900864, y: -40.283035}
+      - {x: -35.996098, y: -42.8985}
+      - {x: -32.915962, y: -45.304962}
+      - {x: -29.675459, y: -47.490707}
+      - {x: -26.290384, y: -49.445076}
+      - {x: -22.777224, y: -51.158558}
+      - {x: -19.153095, y: -52.6228}
+      - {x: -15.435654, y: -53.830666}
+      - {x: -11.643011, y: -54.776276}
+      - {x: -7.793645, y: -55.455017}
+      - {x: -3.906309, y: -55.86359}
+      - {x: 0.000058301437, y: -56}
+      - {x: 3.9064255, y: -55.863583}
+      - {x: 7.793761, y: -55.455}
+      - {x: 11.643126, y: -54.77625}
+      - {x: 15.435765, y: -53.830635}
+      - {x: 19.153204, y: -52.62276}
+      - {x: 22.77733, y: -51.158512}
+      - {x: 26.290487, y: -49.445023}
+      - {x: 29.67556, y: -47.490643}
+      - {x: 32.916054, y: -45.304893}
+      - {x: 35.996185, y: -42.898422}
+      - {x: 38.900948, y: -40.282955}
+      - {x: 41.616188, y: -37.47123}
+      - {x: 44.128666, y: -34.47696}
+      - {x: 46.426167, y: -31.314713}
+      - {x: 48.49748, y: -27.9999}
+      - {x: 50.332516, y: -24.548677}
+      - {x: 51.922344, y: -20.977856}
+      - {x: 53.2592, y: -17.30483}
+      - {x: 54.336594, y: -13.547499}
+      - {x: 55.149258, y: -9.724164}
+      - {x: 55.69324, y: -5.8534536}
+      - {x: 55.96589, y: -1.9542265}
+      - {x: 55.96588, y: 1.9545215}
+      - {x: 55.69321, y: 5.8537474}
+      - {x: 55.149208, y: 9.724455}
+      - {x: 54.33652, y: 13.547785}
+      - {x: 53.259113, y: 17.30511}
+      - {x: 51.92223, y: 20.978128}
+      - {x: 50.33239, y: 24.548943}
+      - {x: 48.49733, y: 28.000156}
+      - {x: 46.426, y: 31.314957}
+      - {x: 44.128483, y: 34.477196}
+      - {x: 41.61598, y: 37.47146}
+      - {x: 38.900723, y: 40.28317}
+      - {x: 35.99595, y: 42.89862}
+      - {x: 32.915802, y: 45.305077}
+      - {x: 29.675299, y: 47.490807}
+      - {x: 26.290215, y: 49.445168}
+      - {x: 22.777048, y: 51.158638}
+      - {x: 19.152916, y: 52.622864}
+      - {x: 15.435469, y: 53.83072}
+      - {x: 11.642823, y: 54.776314}
+      - {x: 7.793455, y: 55.455044}
+      - {x: 3.9061174, y: 55.863605}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
